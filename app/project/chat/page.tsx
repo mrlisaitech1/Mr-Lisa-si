@@ -1,0 +1,2 @@
+export const metadata={title:'LISTRAYL Chat — LISTRAYL | MR LISA SI'};
+export default function Page(){return <section><div className="wrap"><div className="kicker">LISTRAYL project</div><h1 className="sectionTitle" style={{fontSize:50}}>LISTRAYL Chat</h1><p className="muted">This is an official project page in the LISTRAYL ecosystem, founded and created by <a className="accent" href="/mr-lisa-si">MR LISA SI</a>.</p><a className="btn" href="/projects">← Back to projects</a></div></section>}
